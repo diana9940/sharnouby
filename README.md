@@ -4,6 +4,8 @@
 
 An end-to-end analysis of a modeled dataset for a fashion & textile group (production, wholesale, retail and online). The project explores the data, finds the main profit problem, forecasts monthly sales with simple seasonal methods, and tests a pricing what-if.
 
+**Live dashboard:** https://diana9940.github.io/sharnouby/dashboard.html
+
 ## Key questions & answers
 
 | Question | Answer |
