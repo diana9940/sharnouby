@@ -41,7 +41,6 @@ Monthly net sales were split into **Wholesale** and **Retail + Online** (36 mont
 ```
 ├── Sharnouby_Analysis_and_Forecast.ipynb   # EDA, forecast, what-if, Power BI export
 ├── dashboard.html                          # interactive 3-page dashboard (Executive / Discount problem / Forecast)
-├── charts/                                 # exported figures
 └── screenshots/                            # dashboard screenshots
 ```
 
